@@ -5,6 +5,7 @@ In this repository, I explained
 2) Label Encoding
 3) Nominal Encoding (One Hot Encoding) with necessary theoretical and practical concepts in my notebook.
 
+#
 1. Ordinal Encoding and Label Encoding
 * Notebook: ordinal-encoding. ipynb
 * Dataset: customer.csv
